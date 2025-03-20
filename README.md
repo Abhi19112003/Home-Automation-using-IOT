@@ -77,5 +77,12 @@ Alternatively, you can hardcode Wi-Fi credentials directly into the sketch (less
    - "Hey Google, turn on the lights."
    - "Hey Google, set the fan to 50%."
 
-## Folder Structure
+## Acknowledgments
+
+- **Arduino IoT Cloud**: For simplifying cloud integration and device management.
+- **ESP32**: A powerful and versatile platform for IoT development.
+- **Google Home**: For adding voice control to the automation system.
+- **Wi-Fi Manager Library**: For easily managing Wi-Fi credentials without the need for hardcoding.
+
+
 
